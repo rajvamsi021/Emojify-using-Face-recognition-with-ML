@@ -5,6 +5,7 @@ Turn your facial expression into an emoji.
 2) Used FER 2013 Dataset.
 3) Trained a CNN on these images.
 4) As of today there are 7 facial expressions .
+5) Later created GUI using tkinter it will send expression wise emotion into another frame.
 
 # Facial expressions used
 0) Angry
