@@ -25,5 +25,6 @@ Developed using keras framework. In this Project first detect the user face usin
 ![WhatsApp Image 2021-04-08 at 12 22 57 PM](https://user-images.githubusercontent.com/69450197/118387642-2da54c00-b63d-11eb-8b42-2a6468393b5a.jpeg)
 
 2) Plot between train_accuracy and test_accuracy:-
+
 ![WhatsApp Image 2021-04-08 at 12 27 13 PM](https://user-images.githubusercontent.com/69450197/118387717-a0aec280-b63d-11eb-89e4-66fbf81da78f.jpeg)
 
