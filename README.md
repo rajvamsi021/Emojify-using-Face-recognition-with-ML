@@ -7,8 +7,8 @@ Turn your facial expression into an emoji.
 4) As of today there are 7 facial expressions .
 
 # Facial expressions used
-0 -Neutral
-1 - Happy
+0 Neutral
+1 - Smile/Happy
 2 - Sad
 3 - Wink
 4 - Kiss
