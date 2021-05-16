@@ -22,3 +22,4 @@ Developed using keras framework. In this Project first detect the user face usin
 
 Plot between train_loss and test_loss:-
 
+![WhatsApp Image 2021-04-08 at 12 22 57 PM](https://user-images.githubusercontent.com/69450197/118387642-2da54c00-b63d-11eb-8b42-2a6468393b5a.jpeg)
