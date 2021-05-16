@@ -7,13 +7,13 @@ Turn your facial expression into an emoji.
 4) As of today there are 7 facial expressions .
 
 # Facial expressions used
-0 Neutral
-1 - Smile/Happy
-2 - Sad
-3 - Wink
-4 - Kiss
-5 - Surprised
-6 - Angry
+0) Angry
+1) Disguisted
+2) Fearful
+3) Happy
+4) Neutral
+5) Sad
+6) Surprised
 
 # About the Project
 Developed using keras framework. In this Project first detect the user face using OpenCV and Cascadeclassifier. After that it will detect the human expression like angry, sad, happy etc, and after the this save model will used for tkinter GUI it will send expression wise emotion into another frame.
